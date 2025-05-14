@@ -4,7 +4,7 @@ A fun and simple two-player dice game built with HTML, CSS, and JavaScript. Pres
 
 ## 🚀 Demo
 
-👉 [Live Demo on GitHub Pages](https:)
+👉 [Live Demo on GitHub Pages](https://yuvraj1129.github.io/dice-roll-game/)
 
 ## 🛠️ Features
 
